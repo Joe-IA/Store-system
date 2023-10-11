@@ -1,0 +1,4 @@
+Nombre	NombreUs	Direccion	Contraseña	FechaNac	Sexo
+José Armando Cerna	JCerna29	Calle Quinta Avenida 708	pp121513	20 de zbril de 2004	H	
+Carlos André	Charlie	Lienzo 105	Charlie_4!	05 de octubre de 2006	H	
+Isaac Cano	Cano	Av Aguascalientes 2	Cano_python3!	25 de junio de 2003	H	
